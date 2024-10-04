@@ -5,9 +5,6 @@ image: ./tsp_lseg.png
 authors:
   - name: Mario Guerra
     title: Senior Product Manager
-    socials:
-      x: _marioguerra_
-      github: mario-guerra
 ---
 
 <!-- cspell:ignore LSEG, lseg, Schwalm, Davant -->
